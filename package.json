@@ -1,0 +1,19 @@
+{
+  "name": "best-test-ever",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MineGame159/best-test-ever.git"
+  },
+  "author": "MineGame159",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MineGame159/best-test-ever/issues"
+  },
+  "homepage": "https://github.com/MineGame159/best-test-ever#readme"
+}
